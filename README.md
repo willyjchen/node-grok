@@ -1,4 +1,5 @@
 # node-grok
+[![Build Status](https://travis-ci.org/atom/node-oniguruma.svg?branch=master)](https://travis-ci.org/willyjchen/node-grok)
 
 This library is inspired by logstash grok filter but it's not a port of it.
 
