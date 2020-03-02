@@ -17,7 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "async": "3.2.0",
-    "collections": "3.0.0",
+    "collections": "5.1.9",
     "oniguruma": "^7.2.1"
   },
   "devDependencies": {
